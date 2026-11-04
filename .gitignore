@@ -16,3 +16,7 @@ venv/
 .idea/
 Thumbs.db
 desktop.ini
+
+# 実行ログ・スクレイピング結果（実行のたびに生成される）
+logs/
+books_*.md
